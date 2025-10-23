@@ -2,7 +2,7 @@
 
 A full-stack MERN application for managing agents and distributing contact lists efficiently.
 
-## 🚀 Features
+##  Features
 
 - **Admin Authentication** - Secure login with JWT
 - **Agent Management** - Create and manage agent profiles
@@ -18,7 +18,7 @@ A full-stack MERN application for managing agents and distributing contact lists
 - **File Processing:** Multer, CSV Parser
 - **Database:** MongoDB
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js (v14 or higher)
