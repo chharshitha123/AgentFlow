@@ -10,7 +10,7 @@ A full-stack MERN application for managing agents and distributing contact lists
 - **Real-time Dashboard** - Monitor distributions and agent performance
 - **Responsive Design** - Works on desktop and mobile
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, React Router, Axios, CSS3
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
